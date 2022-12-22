@@ -6,6 +6,8 @@
 
 You should have git installed and git must work in command line.
 
+Python >= 3.10.6
+
 ```bash
 python3 scraper.py [--reset]
 ```
